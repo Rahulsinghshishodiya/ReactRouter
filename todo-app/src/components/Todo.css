@@ -1,0 +1,17 @@
+.todo-wraper {
+
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: cyan;
+  }
+   .todo-item {
+    border-bottom: 1px solid #ccc;
+    padding: 10 5px;
+   }
+   .todo-item span.completed {
+    text-decoration: line-through;
+   }
+   .todo-list span.delet {
+    text-align: center;
+   }
